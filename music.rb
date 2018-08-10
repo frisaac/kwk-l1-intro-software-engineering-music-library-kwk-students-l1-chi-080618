@@ -16,4 +16,3 @@ def list_artists(a_hash)
 
 
 
-
